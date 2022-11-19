@@ -4,7 +4,7 @@ from MensagemAniversario import MensagemAniversario
 
 listMsg = []
 m1 = MensagemDiaDosNamorados('Artur', 'Valéria')
-m2 = MensagemNatal('Valéria', 'Aluísio')
+m2 = MensagemNatal('Demétrios', 'Aluísio')
 m3 = MensagemAniversario('Iara', 'Valéria')
 
 listMsg.append(m1)
